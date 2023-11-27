@@ -59,4 +59,3 @@ Now the project should be running on http://127.0.0.1:8000/
 
 Đăng nhập với tư cách quản trị viên và thêm một số khóa học, giáo viên và học sinh.
 
-Demo : https://drive.google.com/file/d/1ZCDXNvIYvkWAIVriLrwpQwZz5S1cLTEM/view?usp=sharing
