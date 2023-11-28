@@ -30,6 +30,7 @@ folium==0.14.0
 geographiclib==2.0
 geopy==2.4.0
 googlemaps==4.10.0
+gunicorn==21.2.0
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
@@ -40,8 +41,10 @@ mysqlclient==2.2.0
 ndg-httpsclient==0.5.1
 numpy==1.26.0
 openpyxl==3.1.2
+packaging==23.2
 Pillow==10.0.0
 psycopg2==2.9.9
+psycopg2-binary==2.9.9
 pusher==3.3.2
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
@@ -52,12 +55,6 @@ pymssql==2.2.8
 PyMySQL==1.1.0
 PyNaCl==1.5.0
 pyOpenSSL==23.2.0
-PyQt5==5.15.9
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.12.2
-PyQtWebEngine==5.15.6
-PyQtWebEngine-Qt5==5.15.2
-python-chess==1.999
 python-dotenv==1.0.0
 pytz==2023.3
 redis==5.0.0
